@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(196, 128, 26);
+}
+.t1,th, td {
+    border: 1px solid black;
+}
+.content, table {
+    margin:auto;
+    width:50%;
+    text-align: center;
+}
